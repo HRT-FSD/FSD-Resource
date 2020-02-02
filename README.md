@@ -105,7 +105,7 @@ The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_
 ## Python Robotics
 - Python code collection of robotics algorithms, especially for autonomous navigation. A great starting point to explore the main algorithms relevant to mobile robotics and Formula Student Driverless. Find all the details in this [link](https://github.com/AtsushiSakai/PythonRobotics).
 
-<a name="#bitalog"></a>
+<a name="bitalog"></a>
 ## BIT FSD Algorithm
 - This repository is devoted to share the autonomous code of Beijing Institute of Technology Driverless Racing Team. Some simple version code of an autonomous FS race car and some helpful tools are included.Find all the details in this [link](https://github.com/bitfsd/fsd_algorithm).
 
@@ -169,8 +169,9 @@ This section is devoted to share videos related to Formula Student Driverless Ve
 <a name="videos_dv_competition"></a>
 ## Videos of Formula Student Driverless Competition
 - FormulaStudentTV:[YouTubeLink](https://www.youtube.com/user/FormulaStudentTV)
-- FSG19 SkidPad:[YouTubeLink]()
+- FSG19 SkidPad:[YouTubeLink](https://www.youtube.com/watch?v=S1LvYPn4pCo)
 - FSG19 Trackdrive:[YouTubeLink](https://www.youtube.com/watch?v=gcnngFyWnFQ)
+- FSG19 autocross:[YouTubeLink](https://www.youtube.com/watch?v=sxqkt_ydOkY)
 - FSG KIT19D 卡尔斯鲁厄无人车 练车车载与比赛视频:[bilibiliLink](https://www.bilibili.com/video/av64539186?t=67)
 - FSC19 辽工珠海回顾:[bilibiliLink](https://www.bilibili.com/video/av77099188?t=77)
 
